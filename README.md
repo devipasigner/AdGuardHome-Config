@@ -1,5 +1,6 @@
 # [🏠 AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) Configuration
 
+Everything listed is used in my own AdGuard Home instances.
 ***
 # Settings -> General
 
@@ -77,6 +78,12 @@ Name: Stalkerware & Watchware Indicators
 Path: https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full
 
 
+### Lightswitch05 AMP Hosts
+Name: Lightswitch05's AMP Hosts Extended
+
+Path: https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
+
+
 ### Filters -> Choose from the list
 
 Add:
@@ -95,7 +102,7 @@ Name: 1Hosts (Pro)
 
 Path: https://badmojr.gitlab.io/1hosts/Pro/adblock.txt
 
-### Lightswitch05 (Developer Dans Hosts)
+### Lightswitch05 Ads & Tracking
 Name: Lightswitch05's Ads & Tracking Extended
 
 Path: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
