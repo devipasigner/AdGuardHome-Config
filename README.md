@@ -113,4 +113,4 @@ Add the following:
 ||mask-h2.icloud.com^$important,dnsrewrite=NXDOMAIN;;
 ```
 
-Blocklist credits: [badmojr](https://github.com/badmojr), [sjhgvr](https://oisd.nl/), [notracking](https://github.com/notracking), [developer dan](https://www.github.developerdan.com/).
+Blocklist credits: [badmojr](https://github.com/badmojr), [sjhgvr](https://oisd.nl/), [notracking](https://github.com/notracking), [developer dan](https://www.github.developerdan.com/), [mmotti](https://github.com/mmotti).
