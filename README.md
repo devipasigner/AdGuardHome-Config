@@ -5,7 +5,7 @@
 
 ### Filter update interval
 
-12 or 24 hours. 
+Set to 12 hours.
 
 Anything below is overkill and a waste of bandwidth.
 
@@ -91,7 +91,17 @@ Name: MMotti AdguardHome - regex
 
 Path: https://raw.githubusercontent.com/mmotti/adguard-home-filters/master/regex.txt
 
+#### 👶Parental Blocking (Adult & Porn Content)
 
+### OISD Nsfw
+Name: OISD Nsfw
+
+Path: https://abp.oisd.nl/nsfw/
+
+### 1Hosts kidSaf
+Name: 1Hosts (kidSaf)
+
+Path: https://badmojr.github.io/addons_1Hosts/kidSaf/adblock.txt
 # Filters -> Custom filtering rules
 
 ### Stop Apple devices from bypassing our AdGuard Home server
@@ -102,3 +112,5 @@ Add the following:
 ||mask.icloud.com^$important,dnsrewrite=NXDOMAIN;;
 ||mask-h2.icloud.com^$important,dnsrewrite=NXDOMAIN;;
 ```
+
+Blocklist credits: [badmojr](https://github.com/badmojr), [sjhgvr](https://oisd.nl/), [notracking](https://github.com/notracking), [developer dan](https://www.github.developerdan.com/).
