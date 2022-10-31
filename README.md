@@ -81,14 +81,9 @@ Path: https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/
 
 Add:
 
-#### Other
-
-WindowsSpyBlocker - Hosts spy rules
-
 ### Security
 
-Check everything under security. In my own testing there are few false positives.
-
+Dandelion Sprout's Anti Malware List (contains regexes and abused tlds stripped from the curated lists above).
 ***
 #### 🛡️Strict Blocking (More breakages, Prioritizes blocking over functionality)
 
