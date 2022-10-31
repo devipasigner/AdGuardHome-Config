@@ -5,7 +5,7 @@
 
 ### Filter update interval
 
-Set to 12 hours.
+Set to **12 hours**.
 
 Anything below is overkill and a waste of bandwidth.
 
@@ -24,23 +24,23 @@ Recommended Protocol (in order from best to worst): DoQ (QUIC), DoT (TLS Encrypt
 
 ### DNS server configuration
 
-Rate limit: 0
+Rate limit: **0**
 
-Enable EDNS client subnet: ❌
+Enable EDNS client subnet: 🚫
 
-Enable DNSSEC: ✅
+Enable DNSSEC: ☑️
 
-Disable resolving of IPV6 addresses: ❌
+Disable resolving of IPV6 addresses: 🚫
 
-Blocking Mode: Default
+Blocking Mode: **Default**
 
 ### DNS cache configuration
 
-Cache size: 33554432
+Cache size: **33554432**
 
-Override minimum TTL: 3600
+Override minimum TTL: **3600**
 
-Override maximum TTL: 86400
+Override maximum TTL: **86400**
 
 ### DHCP settings
 
