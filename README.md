@@ -91,6 +91,7 @@ Name: MMotti AdguardHome - regex
 
 Path: https://raw.githubusercontent.com/mmotti/adguard-home-filters/master/regex.txt
 
+***
 #### 👶Parental Blocking (Adult & Porn Content)
 
 ### OISD Nsfw
