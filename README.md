@@ -148,4 +148,4 @@ Add the following:
 /^198.(1[8-9])(.[0-9]{1,3}){2}$/
 /^172.(1[6-9]|2[0-9]|3[0-1])(.[0-9]{1,3}){2}$/
 ```
-Blocklist credits: [badmojr](https://github.com/badmojr), [sjhgvr](https://oisd.nl/), [notracking](https://github.com/notracking), [developer dan](https://www.github.developerdan.com/), [mmotti](https://github.com/mmotti), [assoechap](https://github.com/AssoEchap).
+⭐️Credits: [badmojr](https://github.com/badmojr), [sjhgvr](https://oisd.nl/), [notracking](https://github.com/notracking), [developer dan](https://www.github.developerdan.com/), [mmotti](https://github.com/mmotti), [assoechap](https://github.com/AssoEchap), [ghost](https://github.com/ghost).
