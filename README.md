@@ -48,7 +48,7 @@ Override maximum TTL: **86400**
 Configure if your router does not allow you to change its DNS settings. Make sure to disable DHCP on your routers side before enabling DHCP in AdGuard Home to avoid conflicts.
 
 ***
-# Filters -> DNS Blocklists
+# 🛡️Filters -> DNS Blocklists
 
 
 ### Add blocklist -> Add a custom list
@@ -83,13 +83,15 @@ Name: Lightswitch05's AMP Hosts Extended
 
 Path: https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
 
+### Filters -> Choose from the list
+
 Add:
 
 ### Security
 
 Dandelion Sprout's Anti Malware List (contains regexes and abused tlds stripped from the curated lists above).
 ***
-#### 🛡️Strict Blocking (More breakages, Prioritizes blocking over functionality)
+#### 💂‍♂️Strict Blocking (More breakages, Prioritizes blocking over functionality)
 
 Add the balanced blocking lists along with the lists below to achieve strict blocking
 
@@ -131,7 +133,6 @@ Extra blocklists you may want to use in your environment to supplement the above
 Name: Jefe The Great Wall DoH
 
 Path: https://raw.githubusercontent.com/travisboss/TheGreatWall/master/doh.txt
-### Filters -> Choose from the list
 
 
 ### oneoffdallas DoH server list
