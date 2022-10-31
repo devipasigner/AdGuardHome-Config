@@ -26,11 +26,11 @@ Recommended Protocol (in order from best to worst): DoQ (QUIC), DoT (TLS Encrypt
 
 Rate limit: 0
 
-Enable EDNS client subnet: ⛔
+Enable EDNS client subnet: ❌
 
-Enable DNSSEC: ✔️
+Enable DNSSEC: ✅
 
-Disable resolving of IPV6 addresses: ⛔
+Disable resolving of IPV6 addresses: ❌
 
 Blocking Mode: Default
 
