@@ -70,6 +70,12 @@ Name: NoTracking Blocklist
 
 Path: https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
 
+
+### Stalkerware Indicators
+Name: Stalkerware Indicators
+
+Path: https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full
+
 ***
 #### 🛡️Strict Blocking (More breakages, Prioritizes blocking over functionality)
 
@@ -114,4 +120,4 @@ Add the following:
 ||mask-h2.icloud.com^$important,dnsrewrite=NXDOMAIN;;
 ```
 
-Blocklist credits: [badmojr](https://github.com/badmojr), [sjhgvr](https://oisd.nl/), [notracking](https://github.com/notracking), [developer dan](https://www.github.developerdan.com/), [mmotti](https://github.com/mmotti).
+Blocklist credits: [badmojr](https://github.com/badmojr), [sjhgvr](https://oisd.nl/), [notracking](https://github.com/notracking), [developer dan](https://www.github.developerdan.com/), [mmotti](https://github.com/mmotti), [assoechap](https://github.com/AssoEchap).
