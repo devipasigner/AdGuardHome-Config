@@ -122,6 +122,7 @@ Name: 1Hosts (kidSaf)
 
 Path: https://badmojr.github.io/addons_1Hosts/kidSaf/adblock.txt
 
+***
 #### 🍒adblock.EXTRAS
 
 Extra blocklists you may want to use in your environment to supplement the above lists
