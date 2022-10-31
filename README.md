@@ -54,8 +54,8 @@ Configure if your router does not allow you to change its DNS settings. Make sur
 ### Add blocklist -> Add a custom list
 #### ☁️Balanced Blocking (Rare breakages, Prioritizes functionality over blocking)
 
-### OISD Full
-Name: OISD Full
+### osid full
+Name: oisd (full)
 
 Path: https://abp.oisd.nl/
 
@@ -82,9 +82,6 @@ Path: https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/
 Name: Lightswitch05's AMP Hosts Extended
 
 Path: https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
-
-
-### Filters -> Choose from the list
 
 Add:
 
@@ -115,15 +112,44 @@ Path: https://raw.githubusercontent.com/mmotti/adguard-home-filters/master/regex
 ***
 #### 👶Parental Blocking (Adult & Porn Content)
 
-### OISD Nsfw
-Name: OISD Nsfw
+### oisd nsfw big
+Name: oisd nsfw (big)
 
-Path: https://abp.oisd.nl/nsfw/
+Path: https://abp.oisd.nl/nsfwbig/
 
 ### 1Hosts kidSaf
 Name: 1Hosts (kidSaf)
 
 Path: https://badmojr.github.io/addons_1Hosts/kidSaf/adblock.txt
+
+#### 🍒adblock.EXTRAS
+
+Extra blocklists you may want to use in your environment to supplement the above lists
+
+### Jefe The Great Wall DoH
+Name: Jefe The Great Wall DoH
+
+Path: https://raw.githubusercontent.com/travisboss/TheGreatWall/master/doh.txt
+### Filters -> Choose from the list
+
+
+### oneoffdallas DoH server list
+Name: oneoffdallas DoH server list
+
+Path: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
+
+
+### Lightswitch05 Complete Facebook Services
+Name: Lightswitch05's Facebook Services Extended
+
+Path: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
+
+
+### NoGoogle
+Name: NoGoogle
+
+Path: https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google-adguard.txt
+
 # Filters -> Custom filtering rules
 
 ### 🍎Stop Apple devices from bypassing our AdGuard Home server
