@@ -119,7 +119,7 @@ Name: 1Hosts (kidSaf)
 Path: https://badmojr.github.io/addons_1Hosts/kidSaf/adblock.txt
 # Filters -> Custom filtering rules
 
-### Stop Apple devices from bypassing our AdGuard Home server
+### 🍎Stop Apple devices from bypassing our AdGuard Home server
 
 Add the following:
 ```
@@ -128,4 +128,24 @@ Add the following:
 ||mask-h2.icloud.com^$important,dnsrewrite=NXDOMAIN;;
 ```
 
+### DNS Rebinding Protection (Not added by AdGuard Team Yet)
+
+Add the following:
+```
+/^192.0.0(.[0-9]{1,3}){1}$/
+/^192.0.2(.[0-9]{1,3}){1}$/
+/^198.51.100(.[0-9]{1,3}){1}$/
+/^203.0.113(.[0-9]{1,3}){1}$/
+/^192.168(.[0-9]{1,3}){2}$/
+/^169.254(.[0-9]{1,3}){2}$/
+/^10(.[0-9]{1,3}){3}$/
+/^127(.[0-9]{1,3}){3}$/
+/^0(.[0-9]{1,3}){3}$/
+/^100.(6[4-9]|[7-9][0-9]{1}|1[0-1][0-9]|12[0-7])(.[0-9]{1,3}){2}$/
+/^(22[4-9]|23[0-9])(.[0-9]{1,3}){3}$/
+/^(24[0-9]|25[0-5])(.[0-9]{1,3}){3}$/
+/^172.(1[6-9]|2[0-9]|3[0-1)(.[0-9]{1,3}){2}$/
+/^198.(1[8-9])(.[0-9]{1,3}){2}$/
+/^172.(1[6-9]|2[0-9]|3[0-1])(.[0-9]{1,3}){2}$/
+```
 Blocklist credits: [badmojr](https://github.com/badmojr), [sjhgvr](https://oisd.nl/), [notracking](https://github.com/notracking), [developer dan](https://www.github.developerdan.com/), [mmotti](https://github.com/mmotti), [assoechap](https://github.com/AssoEchap).
