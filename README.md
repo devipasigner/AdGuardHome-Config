@@ -50,7 +50,7 @@ Configure if your router does not allow you to change its DNS settings. Make sur
 # Filters -> DNS Blocklists
 
 
-Add blocklist -> Add a custom list
+### Add blocklist -> Add a custom list
 #### ☁️Balanced Blocking (Rare breakages, Prioritizes functionality over blocking)
 
 ### OISD Full
@@ -75,6 +75,19 @@ Path: https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblo
 Name: Stalkerware Indicators
 
 Path: https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full
+
+
+### Filters -> Choose from the list
+
+Add:
+
+#### Other
+
+WindowsSpyBlocker - Hosts spy rules
+
+### Security
+
+Check everything under security. In my own testing there are few false positives.
 
 ***
 #### 🛡️Strict Blocking (More breakages, Prioritizes blocking over functionality)
