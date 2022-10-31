@@ -71,8 +71,8 @@ Name: NoTracking Blocklist
 Path: https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
 
 
-### Stalkerware Indicators
-Name: Stalkerware Indicators
+### Stalkerware & Watchware Indicators
+Name: Stalkerware & Watchware Indicators
 
 Path: https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full
 
