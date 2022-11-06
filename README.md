@@ -77,12 +77,6 @@ Name: Stalkerware & Watchware Indicators
 
 Path: https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full
 
-
-### Lightswitch05 AMP Hosts
-Name: Lightswitch05's AMP Hosts Extended
-
-Path: https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
-
 ### Filters -> Choose from the list
 
 Add:
@@ -110,6 +104,12 @@ Path: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.
 Name: MMotti AdguardHome - regex
 
 Path: https://raw.githubusercontent.com/mmotti/adguard-home-filters/master/regex.txt
+
+
+### Lightswitch05 AMP Hosts
+Name: Lightswitch05's AMP Hosts Extended
+
+Path: https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
 
 ***
 #### 👶Parental Blocking (Adult & Porn Content)
